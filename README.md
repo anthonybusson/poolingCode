@@ -1,5 +1,6 @@
 # poolingCode
 Code of the simulator used in the article "Performance evaluation of OFDMA and Aggregation downlink stateless service disciplines in Wi-Fi networks"
+The tracefile are in the traces folder. Each line is a frame and contains four field: time, packet size, destination ip address, phyiscal transmission rate. 
 
 Once the code has been downloaded, use the make command to compile. 
 
